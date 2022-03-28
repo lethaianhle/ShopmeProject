@@ -3,4 +3,4 @@ Shopme E-commerce Website
 
 * User Manage Feature
 
-<a href='https://postimg.cc/SjHF3Jdm' target='_blank'><img src='https://i.postimg.cc/SjHF3Jdm/spring-user.png' width="30px"/></a>
+<a href='https://postimg.cc/SjHF3Jdm' target='_blank'><img src='https://i.postimg.cc/SjHF3Jdm/spring-user.png' width="450px"/></a>
