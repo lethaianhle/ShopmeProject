@@ -1,6 +1,14 @@
-# ShopmeProject-SpringBoot
-Shopme E-commerce Website
+# Shopme E-commerce Project
 
-* User Manage Feature
+Bootstrap, Html, Css, Jquery, SpringBoot, SpringData Jpa, Thymleaf, Junit, Mysql, SpringSecurity
 
-<a href='https://postimg.cc/SjHF3Jdm' target='_blank'><img src='https://i.postimg.cc/SjHF3Jdm/spring-user.png' width="450px"/></a>
+E-commerce Application with SpringBoot + Thymleaf:
+
+* Features:  Manage Users, Export Excel, Export CSV, Export PDF, Authentication, Authorization, Paging and Sorting
+
+# Preview
+ 
+* Video Demo
+
+https://user-images.githubusercontent.com/79903271/160510206-1470e3e2-3c58-4053-8acb-6971823fbf46.mp4
+
